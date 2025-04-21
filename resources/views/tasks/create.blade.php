@@ -44,7 +44,7 @@
 
                         <div class="flex items-center justify-between mt-6">
                             <a href="{{ route('tasks.index') }}" class="text-gray-600 hover:text-gray-900">Cancel</a>
-                            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            <button type="submit" class="bg-blue-600 hover:bg-blue-800 text-black font-bold py-3 px-6 rounded-lg shadow-md">
                                 Create Task
                             </button>
                         </div>
